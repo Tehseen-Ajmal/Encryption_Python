@@ -34,6 +34,14 @@ This program offers various encryption types to secure your data and messages. I
 - **Book Encryption**: "📗📙📘📔📗📘📕📔📗📕📔📙📔📙📗📘📗📙📘📔📕📔📙📗📕📙📗📘📗📕📘📙📗📘📙📕📗📕📔📙📗📕📙📘📔📙📗📘📔📙📗📕📒"
 - **Clock Encryption**: "🕕🕛🕘🕧🕕🕘🕒🕧🕕🕒🕧🕛🕧🕛🕕🕘🕕🕛🕘🕧🕒🕧🕛🕕🕒🕛🕕🕘🕕🕒🕘🕛🕕🕘🕛🕒🕕🕒🕧🕛🕕🕒🕛🕘🕧🕛🕕🕘🕧🕛🕕🕒"
 - **3T Encryption**: "⭕❌⭕❌⭕⭕⭕⭕❌⭕⭕⭕⭕❌⭕⭕❌❌⭕⭕❌❌❌⭕⭕⭕⭕❌⭕❌⭕❌⭕⭕⭕"
+## Preview
+![Screenshot (492)](https://github.com/Tehseen-Ajmal/Encryption_Python/assets/169993548/1545ac4e-8f25-4c7d-a77d-a910887f8e5e)
+
+---
+
+![encrypter-preview](https://github.com/Tehseen-Ajmal/Encryption_Python/assets/169993548/8800dd15-3c16-4fed-a64e-a2f4eaeb56dd)
+
+
 
 ## Installation and Usage
 ### Clone the Repository
