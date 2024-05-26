@@ -39,7 +39,7 @@ This program offers various encryption types to secure your data and messages. I
 ### Clone the Repository
 ```bash
 git clone https://github.com/Tehseen-Ajmal/Encryption_Python.git
-cd encryption-program
+cd Encryption_Python
 ```
 ```bash
 python main.py
